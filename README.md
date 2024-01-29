@@ -1,5 +1,5 @@
 # 24A-10221-API
 
 - Flask
-- Flasgger
+- Flasgger (Flask Swagger)
 - SQLite
